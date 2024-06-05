@@ -1,1 +1,2 @@
-<h1 class="text-4xl">Hello world</h1>
+<h1>test for english</h1>
+<h1>ทดสอบภาษาไทย</h1>
